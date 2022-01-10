@@ -1,0 +1,11 @@
+﻿.product-list-image {
+    height: 100px;
+}
+
+.product-details-row {
+    display: flex;
+}
+
+.product-details-image {
+    height: 300px;
+}

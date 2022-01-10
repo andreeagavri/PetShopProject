@@ -1,0 +1,14 @@
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\PetShopModel.deps.json
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\PetShopModel.runtimeconfig.json
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\PetShopModel.runtimeconfig.dev.json
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\PetShopModel.dll
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\ref\PetShopModel.dll
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\bin\Debug\net5.0\PetShopModel.pdb
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.AssemblyInfoInputs.cache
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.AssemblyInfo.cs
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.csproj.CoreCompileInputs.cache
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.dll
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\ref\PetShopModel.dll
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.pdb
+E:\Facultate Andre\Medii de Programare Avansate\proiect\PetShopModel\obj\Debug\net5.0\PetShopModel.genruntimeconfig.cache
